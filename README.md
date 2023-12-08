@@ -1,4 +1,4 @@
-# Page De Um Site De Restaurante
+# Pagina-De-Um-Site-De-Restaurante
 Página de um restaurante, criada com HTML e CSS.  
 
 Bem-vindo ao repositório da página de um restaurante "Sobor é  Art"! Esta é a página webde um restaurante fictício, desenvolvida utilizando HTML e CSS.
