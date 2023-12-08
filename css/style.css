@@ -1,0 +1,175 @@
+/* ------------ RESET CSS -------------*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century;
+    font-weight: normal;
+    font-size: 1em;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    background-color: transparent;
+}
+/*-------------------------------------*/
+
+body{
+    padding: 30px 70px 30px 70px;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4),rgba(0, 0, 0, 0.8)), url(../img/background.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;    
+}
+
+#logo img{
+    width: 70px;
+    padding-right: 8px;
+}
+
+h1{
+    font-size: 30px;
+    color: #ffffff;
+}
+
+h1 div{
+    display: flex;
+    justify-content: center;
+    align-items:baseline;
+}
+
+#menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#menu ul{
+    float: right;
+    font-size: 17px;
+
+}
+
+.menu_itens{
+    display: inline-block;
+}
+
+.menu_itens a{
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+    color: #ffffff;
+}
+
+.menu_itens a:hover{
+    background-color: white;
+    color: black;
+}
+
+.active a{
+    background-color: white;
+    color: black;
+}
+
+#title{
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#title h2{
+    font-size: 100px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+}
+#title span{
+    font-size: 65px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#main_menu{
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main_btn{
+    border: solid 1px #fff;
+    padding: 5px 20px;
+    transition: 0.5 ease;
+    font-size: 18px;
+    margin: 0 5px;
+    background-color: rgba(0,0,0,0.5);
+    color: #ffffff;
+}
+
+.main_btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+#description{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60vw;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+}
+
+
+.sub_menu{
+    display: none;
+    top: 8.5%;
+    position: relative;
+}
+
+.sub_menu ul{
+    position: absolute;
+}
+
+.sub_menu ul li{
+    margin: 6px;
+}
+
+#menu ul li:hover .sub_menu{
+    display: block;
+    position: absolute;
+    margin-top: 14px;
+    margin-left: -8px;
+    transition: 0.4s ease;
+
+}
+
+#menu ul li:hover .sub_menu ul{
+    display: block;
+    margin: 6px;
+}
+
+i{
+    padding-right: 10px;
+}
+
+footer{
+    position:absolute;
+    bottom: 30px
+}
+
+footer a{
+    color: #ffffff;
+    
+}
