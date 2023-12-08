@@ -11,7 +11,7 @@ CSS
 📂 Estrutura do Repositório:
 
 index.html: Página principal
-styles.css: Estilos CSS
+css/styles.css: Estilos CSS
 img/: Diretório contendo as imagens do site
 README.md: Documentação com as informações sobre o projeto.
 LICENSE: licença.
