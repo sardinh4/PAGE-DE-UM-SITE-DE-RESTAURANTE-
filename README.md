@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=M5JJxdrCvJQ
 
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/Page-De-Um-Site-De-Restaurante/
+https://sardinh4.github.io/Pagina-De-Um-Site-De-Restaurante/
