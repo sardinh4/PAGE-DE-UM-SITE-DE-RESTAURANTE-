@@ -21,6 +21,7 @@ O Projeto foi desenvolvido com base no vídeo do youtube "How To Create a full W
 🔗 Link do Vídeo:
 
 https://www.youtube.com/watch?v=M5JJxdrCvJQ
+
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/Pagina-de-Venda-para-Curso-de-Design-e-Desenvolvimento-Web/
+https://sardinh4.github.io/Page-De-Um-Site-De-Restaurante/
