@@ -1,4 +1,4 @@
-# Pagina-De-Um-Site-De-Restaurante
+# Pagina-De-Um-Site-De-Restaurante (sem responsividade)
 Página de um restaurante, criada com HTML e CSS.  
 
 Bem-vindo ao repositório da página de um restaurante "Sobor é  Art"! Esta é a página webde um restaurante fictício, desenvolvida utilizando HTML e CSS.
@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=M5JJxdrCvJQ
 
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/Pagina-De-Um-Site-De-Restaurante/
+https://sardinh4.github.io/saborart/
